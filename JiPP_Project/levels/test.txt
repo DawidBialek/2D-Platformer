@@ -1,0 +1,5 @@
+100x500 1000x30
+RectangleShape 100x690 1000x20 0,128,0
+RectangleShape 400x300 100x300 255,255,0
+RectangleShape 1000x50 100x600 255,255,255
+CircleShape 300x660 20,3

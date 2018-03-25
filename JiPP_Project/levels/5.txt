@@ -1,0 +1,5 @@
+39x602 1218x565
+RectangleShape 26x641 255x55 255,255,255
+RectangleShape 981x624 255x55 255,255,255
+RectangleShape 612x125 40x580 255,255,255
+CircleShape 612x95 20,3

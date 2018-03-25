@@ -1,0 +1,45 @@
+63x604 1193x177
+RectangleShape 46x646 1195x55 255,255,255
+RectangleShape 1141x292 100x385 255,255,255
+RectangleShape 516x246 725x55 255,255,255
+RectangleShape 198x437 725x55 255,255,255
+RectangleShape 192x36 80x455 255,255,255
+RectangleShape 192x37 80x455 255,255,255
+RectangleShape 192x28 1035x55 255,255,255
+RectangleShape 6x432 245x60 255,255,255
+CircleShape 293x616 20,3
+CircleShape 328x616 20,3
+CircleShape 362x616 20,3
+CircleShape 397x616 20,3
+CircleShape 432x616 20,3
+CircleShape 466x616 20,3
+CircleShape 501x616 20,3
+CircleShape 536x616 20,3
+CircleShape 749x616 20,3
+CircleShape 784x616 20,3
+CircleShape 818x616 20,3
+CircleShape 853x616 20,3
+CircleShape 888x616 20,3
+CircleShape 922x616 20,3
+CircleShape 957x616 20,3
+CircleShape 1103x616 20,3
+CircleShape 885x407 20,3
+CircleShape 533x407 20,3
+CircleShape 568x407 20,3
+CircleShape 602x407 20,3
+CircleShape 637x407 20,3
+CircleShape 672x407 20,3
+CircleShape 269x407 20,3
+CircleShape 304x407 20,3
+CircleShape 338x407 20,3
+CircleShape 373x407 20,3
+CircleShape 513x216 20,3
+CircleShape 548x216 20,3
+CircleShape 582x216 20,3
+CircleShape 617x216 20,3
+CircleShape 807x217 20,3
+CircleShape 842x217 20,3
+CircleShape 876x217 20,3
+CircleShape 911x217 20,3
+CircleShape 946x217 20,3
+CircleShape 980x217 20,3

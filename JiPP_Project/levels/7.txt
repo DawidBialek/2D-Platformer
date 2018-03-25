@@ -1,0 +1,12 @@
+202x557 949x527
+RectangleShape 164x592 845x100 255,255,255
+CircleShape 423x562 20,3
+CircleShape 458x562 20,3
+CircleShape 492x562 20,3
+CircleShape 527x562 20,3
+CircleShape 562x562 20,3
+CircleShape 596x562 20,3
+CircleShape 631x562 20,3
+CircleShape 666x562 20,3
+CircleShape 700x562 20,3
+CircleShape 735x562 20,3
